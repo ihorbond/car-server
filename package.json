@@ -1,0 +1,17 @@
+{
+  "name": "carserver",
+  "version": "1.0.0",
+  "description": "server to control my car",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ihor Bodnarchuk",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.17.1",
+    "onoff": "^2.0.0",
+    "socket.io": "^2.0.4"
+  }
+}
