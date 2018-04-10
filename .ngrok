@@ -1,0 +1,6 @@
+tunnels:
+  bond94:
+    proto: http
+    addr: 9400
+    subdoamin: bond94.ngrok.io
+    bind-tls: true
